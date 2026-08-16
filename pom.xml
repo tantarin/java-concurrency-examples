@@ -11,6 +11,7 @@
 
     <modules>
         <module>collections/concurrent-hash-map-download-registry</module>
+        <module>collections/compute-if-absent-boundaries</module>
         <module>synchronization/wait-notify-bounded-buffer</module>
         <module>synchronization/reentrant-lock-bounded-buffer</module>
         <module>liveness/deadlock-vs-livelock</module>
