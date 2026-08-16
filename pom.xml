@@ -12,6 +12,7 @@
     <modules>
         <module>collections/concurrent-hash-map-download-registry</module>
         <module>synchronization/wait-notify-bounded-buffer</module>
+        <module>liveness/deadlock-vs-livelock</module>
         <module>tasks/runnable-vs-callable</module>
         <module>parallelism/fork-join-array-sum</module>
     </modules>
