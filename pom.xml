@@ -11,6 +11,7 @@
 
     <modules>
         <module>collections/concurrent-hash-map-download-registry</module>
+        <module>tasks/runnable-vs-callable</module>
         <module>parallelism/fork-join-array-sum</module>
     </modules>
 
