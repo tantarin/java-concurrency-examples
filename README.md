@@ -15,6 +15,7 @@
 | Тема | Практический пример | Что показывает |
 |---|---|---|
 | Concurrent collections | [Download registry](./collections/concurrent-hash-map-download-registry) | почему для общего поиска по ключу подходит `ConcurrentHashMap` |
+| Monitor coordination | [Bounded buffer](./synchronization/wait-notify-bounded-buffer) | как `wait()` и `notifyAll()` координируют producer и consumer |
 | Task contracts | [Runnable vs. Callable](./tasks/runnable-vs-callable) | как выбрать задачу-действие или задачу-вычисление с результатом |
 | Parallel computations | [Fork/Join array sum](./parallelism/fork-join-array-sum) | как рекурсивно делить CPU-bound вычисление и объединять результаты |
 
