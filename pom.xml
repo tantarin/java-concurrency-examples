@@ -11,6 +11,7 @@
 
     <modules>
         <module>collections/concurrent-hash-map-download-registry</module>
+        <module>parallelism/fork-join-array-sum</module>
     </modules>
 
     <properties>
